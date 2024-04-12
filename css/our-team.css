@@ -1,3 +1,32 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f0f7ff; /* Azul muy claro para el fondo */
+  color: #333; /* Color de texto principal */
+}
+
+header {
+  background-color: #4d94ff; /* Azul medio para el encabezado */
+  padding: 20px;
+  text-align: center; /* Centra el texto */
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline;
+  margin-right: 20px;
+}
+
+nav ul li a {
+  color: white;
+  text-decoration: none;
+}
 #our-team {
   background-color: #cfe2ff; /* Azul claro para la sección */
   padding: 20px;
