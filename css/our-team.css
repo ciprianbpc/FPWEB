@@ -2,14 +2,14 @@ body {
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
-  background-color: #f0f7ff; /* Azul muy claro para el fondo */
-  color: #333; /* Color de texto principal */
+  background-color: #f0f7ff;
+  color: #333; 
 }
 
 header {
-  background-color: #4d94ff; /* Azul medio para el encabezado */
+  background-color: #4d94ff; 
   padding: 20px;
-  text-align: center; /* Centra el texto */
+  text-align: center;
 }
 
 nav ul {
@@ -28,7 +28,7 @@ nav ul li a {
   text-decoration: none;
 }
 #our-team {
-  background-color: #cfe2ff; /* Azul claro para la sección */
+  background-color: #cfe2ff; 
   padding: 20px;
 }
 
@@ -37,17 +37,17 @@ nav ul li a {
   grid-template-columns: repeat(
     auto-fill,
     minmax(250px, 1fr)
-  ); /* Cuadrícula adaptable */
-  gap: 50px; /* Espacio entre las tarjetas */
+  ); 
+  gap: 50px; 
 }
 
 .team-member {
-  background-color: #b0d4ff; /* Azul medio para las tarjetas */
+  background-color: #b0d4ff; 
   padding: 50px;
-  border-radius: 10px; /* Bordes redondeados para las tarjetas */
+  border-radius: 10px; 
 }
 
 .team-member img {
   max-width: 100%;
-  border-radius: 50%; /* Imágenes de perfil redondeadas */
+  border-radius: 50%; 
 }

@@ -1,16 +1,16 @@
-/* Estilos generales */
+/* Stiluri generale */
 body {
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
-  background-color: #f0f7ff; /* Azul muy claro para el fondo */
-  color: #333; /* Color de texto principal */
+  background-color: #f0f7ff;
+  color: #333; 
 }
 
 header {
-  background-color: #4d94ff; /* Azul medio para el encabezado */
+  background-color: #4d94ff; 
   padding: 20px;
-  text-align: center; /* Centra el texto */
+  text-align: center; 
 }
 
 nav ul {
@@ -35,13 +35,13 @@ main {
 
 section {
   margin-bottom: 30px;
-  background-color: #cfe2ff; /* Azul claro para las secciones */
+  background-color: #cfe2ff; 
   padding: 20px;
-  border-radius: 10px; /* Bordes redondeados para las secciones */
+  border-radius: 10px; 
 }
 
 footer {
-  background-color: #4d94ff; /* Azul medio para el pie de página */
+  background-color: #4d94ff;
   color: white;
   text-align: center;
   padding: 10px;
