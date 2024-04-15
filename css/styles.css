@@ -4,13 +4,13 @@ body {
   margin: 0;
   padding: 0;
   background-color: #f0f7ff;
-  color: #333; 
+  color: #333;
 }
 
 header {
-  background-color: #4d94ff; 
+  background-color: #4d94ff;
   padding: 20px;
-  text-align: center; 
+  text-align: center;
 }
 
 nav ul {
@@ -35,9 +35,9 @@ main {
 
 section {
   margin-bottom: 30px;
-  background-color: #cfe2ff; 
+  background-color: #cfe2ff;
   padding: 20px;
-  border-radius: 10px; 
+  border-radius: 10px;
 }
 
 footer {
